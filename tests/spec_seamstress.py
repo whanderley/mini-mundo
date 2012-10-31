@@ -14,5 +14,3 @@ class TestSeamstress(unittest.TestCase):
         self.seamstress.name |should| equal_to('Maria')
         self.seamstress.minimum_value |should| equal_to(650)
         self.seamstress.hability |should| equal_to('zig-zag')
-
-    def 
